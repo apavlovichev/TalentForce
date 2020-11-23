@@ -1,0 +1,1 @@
+Обучение Git по ссылке: https://proglib.io/p/git-for-half-an-hour/
