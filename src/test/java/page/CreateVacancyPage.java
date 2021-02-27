@@ -315,12 +315,6 @@ public class CreateVacancyPage extends BasePage{
         return isElementGetText(titleParticipants);
     }
 
-    //Заполнение полей участников через ввод + arrow down + enter
-//    public CreateVacancyPage typeSupervisor(String supervisorValues){
-//        chooseValue(supervisor, supervisorValues);
-//        return this;
-//    }
-
     public CreateVacancyPage typeSupervisor(String supervisorValues){
         mouseOver(selectionProcess);
         clickElement(supervisor);
