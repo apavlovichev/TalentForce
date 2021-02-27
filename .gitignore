@@ -1,1 +1,3 @@
 TestValues.java
+*.log
+**/.idea
