@@ -380,6 +380,7 @@ public class CreateVacancyPage extends BasePage{
 //        this.typeAdditionalManagers(additionalManagersValue2);
         this.typeExternalCustomer(externalCustomerValue);
         this.typeAdditionalRecruter(additionalRecruterValue1);
+//        this.typeAdditionalRecruter(additionalRecruterValue2)
 //        this.typeAdditionalRecruter(additionalRecruterValue2);
         return this;
     }
